@@ -1,4 +1,4 @@
-## Olá! Eu sou a Rebeca Nunes 👋
+##      Olá! Eu sou a Rebeca Nunes 👋
 
 - 🔭 E acabo de me certificar em Java Full Stack, um curso que durou 4 mêses e que me foi proporcionado graças a SoulCode. Portanto, sou uma programadora Junior em busca de uma oportunidade para entrar nesse mercado e dar continuidade a minha carreira. 
 - 🌱 Nesse exato momento estou concluindo um curso de Java Script pela Udemy, e em seguida pretendo me aprodundar mais em Java.
