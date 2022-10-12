@@ -1,6 +1,6 @@
 ##      Olá! Eu sou a Rebeca Nunes 👋
 
-- 🔭 Sou desenvolvedora Java Full Stack Junior e estou em busca de uma oportunidade para entrar no mercado de trabalho em tecnologia e dar continuidade a minha carreira, me aprofundando nas tecnologias que conheço e as colocando em prática. 
+- 🔭 Sou desenvolvedora Java Full Stack Junior 
 ##
 <div align="center">
   <a href="https://github.com/RebecaSN">
