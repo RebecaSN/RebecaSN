@@ -1,6 +1,6 @@
 ##      Olá! Eu sou a Rebeca Nunes 👋
 
-- 🔭 Sou desenvolvedora Java Full Stack Junior 
+- 🔭 Sou desenvolvedora Font-End
 ##
 <div align="center">
   <a href="https://github.com/RebecaSN">
