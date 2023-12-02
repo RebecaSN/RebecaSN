@@ -1,6 +1,7 @@
 ##      Olá! Eu sou a Rebeca Nunes 👋
 
-- 🔭 Sou desenvolvedora Font-End
+- 🔭 Sou desenvolvedora Font-End,
+- Com 1 ano de experência trabalhando com o framework Angular 
 ##
 <div align="center">
   <a href="https://github.com/RebecaSN">
