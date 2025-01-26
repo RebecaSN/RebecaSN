@@ -1,7 +1,7 @@
 ##      Hi! I'm Rebeca Nunes 👋
 
 - 🔭 I’m a Front-End Developer specializing in Angular,
--  With over 2 years of professional experience, I’ve honed my skills in developing scalable, efficient, and user-centric applications using the Angular framework. As a mid-level developer, I thrive on solving complex challenges and delivering high-quality solutions
+-  With 3 years of professional experience, I’ve honed my skills in developing scalable, efficient, and user-centric applications using the Angular framework. As a mid-level developer, I thrive on solving complex challenges and delivering high-quality solutions
 ##
 <div align="center">
   <a href="https://github.com/RebecaSN">
